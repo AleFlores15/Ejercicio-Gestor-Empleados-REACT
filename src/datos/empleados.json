@@ -26,8 +26,27 @@
     {
       "id": 5,
       "nombre": "Laura Gómez",
-      "puesto": "Recursos Humanos",
+      "puesto": "Ingeniero de datos",
       "activo": true
+    },
+    {
+        "id": 6,
+        "nombre": "Cris Lopez",
+        "puesto": "Cientifico de Datos",
+        "activo": true
+    },
+    {
+        "id": 7,
+        "nombre": "Sandra Flores",
+        "puesto": "Gestion Clientes",
+        "activo": false
+    },
+    
+    {
+        "id": 8,
+        "nombre": "Roberth Gonzales",
+        "puesto": "Gerente Productos",
+        "activo": false
     }
   ]
   
