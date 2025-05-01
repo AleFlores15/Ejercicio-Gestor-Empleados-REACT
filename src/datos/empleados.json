@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "nombre": "Alejandro Flores",
+      "puesto": "Gerente General",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Juan López",
+      "puesto": "Analista de Marketing",
+      "activo": false
+    },
+    {
+      "id": 3,
+      "nombre": "Ana Torres",
+      "puesto": "Desarrolladora Frontend",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Carlos Mendoza",
+      "puesto": "Técnico de Soporte",
+      "activo": false
+    },
+    {
+      "id": 5,
+      "nombre": "Laura Gómez",
+      "puesto": "Recursos Humanos",
+      "activo": true
+    }
+  ]
+  
